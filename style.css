@@ -41,7 +41,7 @@ nav ul li a{
   transition: .5s;
 }*/
 a:hover {
-   aqua;
+   color:aqua;
 }
 .checkbtn{
   font-size: 30px;
