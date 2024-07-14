@@ -36,9 +36,12 @@ nav ul li a{
   border-radius: 3px;
   text-transform: uppercase;
 }
-a.active,a:hover{
+/*a.active,a:hover{
   background: #1b9bff;
   transition: .5s;
+}*/
+a:hover {
+   aqua;
 }
 .checkbtn{
   font-size: 30px;
@@ -85,7 +88,7 @@ a.active,a:hover{
   }
   a:hover,a.active{
     background: none;
-    color: #0082e6;
+    color: aqua;
   }
   #check:checked ~ ul{
     left: 0;
